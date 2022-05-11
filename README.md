@@ -8,5 +8,6 @@
 - JS
 - Библиотека Bootstrap v5
 - Оптимизация и адаптация под любые устройства
+- Реализация burger
 
 https://aretea83.github.io/uber/
